@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "sample-actions-dev-controller"
+description: "CloudBees CI configuration bundle for the sample-actions dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/sample-actions/dev-controller"
+parent: "base"
